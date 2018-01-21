@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogParkSearch", "DogParkSearch\DogParkSearch.csproj", "{3A288811-87E6-4265-8812-526F7833183A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogParkSearch.Tests", "DogParkSearch.Tests\DogParkSearch.Tests.csproj", "{28C157B2-8082-4060-930B-B22D7B7100DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A288811-87E6-4265-8812-526F7833183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A288811-87E6-4265-8812-526F7833183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A288811-87E6-4265-8812-526F7833183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A288811-87E6-4265-8812-526F7833183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C157B2-8082-4060-930B-B22D7B7100DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C157B2-8082-4060-930B-B22D7B7100DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C157B2-8082-4060-930B-B22D7B7100DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C157B2-8082-4060-930B-B22D7B7100DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B546EEA8-0F39-480C-80D7-153360B32E7A}
+	EndGlobalSection
+EndGlobal
